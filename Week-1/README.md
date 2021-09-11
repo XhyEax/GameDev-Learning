@@ -66,11 +66,19 @@
 
 ## 参考
 [Detail C++ scope and life cycle](https://ofstack.com/C++/29230/detail-c++-scope-and-life-cycle.html)
+
 [Scope & Lifetime](https://www.csee.umbc.edu/~chang/cs202.f15/Lectures/modules/m05-scope/slides.php?print)
+
 [堆和栈的理解和区别，C语言堆和栈完全攻略](http://c.biancheng.net/c/stack/)
+
 [C/C++中extern关键字详解](https://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html)
+
 [C++全局变量的声明和定义](https://www.cnblogs.com/Dageking/p/3185230.html)
+
 [（三）生命周期与作用域](https://blog.csdn.net/hang_1994/article/details/53644007)
+
 [C 生命周期和作用域](https://blog.csdn.net/guaiderzhu1314/article/details/104103483)
+
 [浅谈C++深拷贝与浅拷贝的区别](https://blog.csdn.net/xxh20188345/article/details/119001145)
+
 [C++细节 深拷贝和浅拷贝(位拷贝）详解](https://blog.csdn.net/weixin_41143631/article/details/81486817)
