@@ -13,7 +13,6 @@
 ## 类和对象
 类：模板
 对象：实例
-## C风格俄罗斯方块
 
 ## 参考
 [Features and Use of Pointers in C/C++](https://www.geeksforgeeks.org/features-and-use-of-pointers-in-c-c/)
